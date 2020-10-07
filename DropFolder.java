@@ -4,7 +4,7 @@ import java.io.IOException;
 public class DropFolder {
 
 	public static void main(String[] args) throws IOException {
-		// 读取输入路径的文件
+		// read in the path of the input folder 
 		
 		String folderPath = "/Users/yuxinxie/Documents/folder";
 		
@@ -29,7 +29,7 @@ public class DropFolder {
 				
 				if(folderCount == 0) {
 					
-					System.err.println(folders.getName() + "没有建双重文件夹");
+					System.err.println(folders.getName() + "did not create a two-layered folder");
 				}
 			}
 		}
