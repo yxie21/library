@@ -17,10 +17,10 @@ We start off with a simple scenario,
 
 [Dropfolder](https://github.com/yxie21/library/blob/master/DropFolder.java)
 
-##### Context:
+- ##### Context:
 
 In the folder "folder," you enter two more levels of subfolders before being able to reach individual files ending with ".txt"
 
-##### Goal:
+- ##### Goal:
 
 Drag out 
