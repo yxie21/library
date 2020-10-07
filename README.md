@@ -5,13 +5,16 @@ so this project will facilitate this process and provide the users with a lot of
 
 > Some of the functions to include 
 
-1. 
+1. Drag out all of the files with the same ending (ex. ".txt", ".java") from a folder (including from the subfolders within the folder) and place them in the location the user wants
 
-2. 
+2. When there are two files with the same name in the folder, rename them with different suffixes to distinguish them. 
 
-3. 
+3. Generalize the [Dropfolder](https://github.com/yxie21/library/blob/master/DropFolder.java) to make it
+    a. able to be executed in folders with more than two layers of subfolders
+    b. compatible on all devices (Mac, Windows, Linux)
 
 4. 
+
 ### Week One: 
 We start off with a simple scenario,
 
