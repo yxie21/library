@@ -37,16 +37,16 @@ When other people want to run it, they have to change these two configurations. 
 they have to use Eclipse. However, for the average users with zero programming experience, this could be
 a very difficult task (also for users without programming software). 
 
--##### Change made:
+- ##### Change made:
 
 Therefore, I used *config.txt* to save all of the configurations and used HashMap (keys and values) to read the input configurations.
 In this way, the users simply have to change the configurations in the txt file, which is easy for everyone.
 
 
-######## why use map?
+- ##### why use map?
 
-############# 1. Retrieving values from the input key is very convenient.
-############# 2. When there are a lot of configurations later on, map can be very time-efficient (changing O(N) to O(1)).
+###### 1. Retrieving values from the input key is very convenient.
+###### 2. When there are a lot of configurations later on, map can be very time-efficient (changing O(N) to O(1)).
 
 
 
