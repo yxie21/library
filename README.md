@@ -42,6 +42,10 @@ a very difficult task (also for users without programming software).
 Therefore, I used *config.txt* to save all of the configurations and used HashMap (keys and values) to read the input configurations.
 In this way, the users simply have to change the configurations in the txt file, which is easy for everyone.
 
+- ##### An additional change:
+
+By getting the location of config.txt in the first few lines of code through the relative path, users no longer have to worry about the exact location of the file. 
+
 
 - ##### why use map?
 
